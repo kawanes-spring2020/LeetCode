@@ -21,7 +21,7 @@
 1296. Divide Array in Sets of K Consecutive Numbers
 1609. Even Odd Tree
 
-#Easy Complexity Problem Solution:
+# Easy Complexity Problem Solution:
 1. Two Sum
 7. Reverse Integer
 9. Palindrome Number
@@ -39,6 +39,6 @@
 1009. Complement of Base 10 Integer 
 1608. Special Array With X Elements Greater Than or Equal X
 
-#Hard Complexity Problem Solution:
+# Hard Complexity Problem Solution:
 
 4. Median of Two Sorted Arrays
