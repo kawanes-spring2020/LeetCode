@@ -1,5 +1,5 @@
 # LeetCode
-Leetcode solutions for below problems:
+# Medium Complexity Problem Solution:
 
 2. Add Two Numbers
 3. Longest Substring without repeating characters
@@ -20,3 +20,25 @@ Leetcode solutions for below problems:
 1288. Remove Covered Intervals
 1296. Divide Array in Sets of K Consecutive Numbers
 1609. Even Odd Tree
+
+#Easy Complexity Problem Solution:
+1. Two Sum
+7. Reverse Integer
+9. Palindrome Number
+20. Valid Parentheses 
+27. Remove Element  
+53. Maximum Subarray
+136. Single Number  
+170. Two Sum III - Data structure design
+202. Happy Number    
+268. Missing Number  
+283. Move Zeroes
+704. Binary Search   
+859. Buddy Strings   
+933. Number of Recent Calls   
+1009. Complement of Base 10 Integer 
+1608. Special Array With X Elements Greater Than or Equal X
+
+#Hard Complexity Problem Solution:
+
+4. Median of Two Sorted Arrays
