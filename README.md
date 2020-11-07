@@ -4,6 +4,7 @@
 
 # Trees & Graphs
 1. Validate Binary Search Tree (Using inorder traversal approach)
+2. Symmetric Tree
 
 # Medium Complexity Problem Solution:
 
