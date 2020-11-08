@@ -1,4 +1,10 @@
 # LeetCode
+
+# LeetCode Amazon
+
+# Trees & Graphs
+1. Validate Binary Search Tree (Using inorder traversal approach)
+
 # Medium Complexity Problem Solution:
 
 2. Add Two Numbers
